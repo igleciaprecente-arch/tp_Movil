@@ -9,7 +9,7 @@ Aplicación móvil desarrollada con **React Native + Expo** para registrar y con
 <p align="center">
   <img src="./assets/screenshots/imagenmuestra.jpeg" width="280" alt="Dashboard y formulario"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="./assets/screenshots/imagen muestra2.jpeg" width="280" alt="Historial de gastos"/>
+  <img src="./assets/screenshots/imagen mustra2.jpeg" width="280" alt="Historial de gastos"/>
 </p>
 
 ---
